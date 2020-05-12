@@ -170,7 +170,6 @@ nav a:hover {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  border: 1px solid black;
 }
 .intro .wrap {
   justify-content: flex-start;
@@ -197,7 +196,6 @@ button:hover {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  border: 1px solid black;
 }
 div .content {
   display: flex;
