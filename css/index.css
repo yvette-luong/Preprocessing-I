@@ -195,7 +195,10 @@ button:hover {
 }
 .content {
   display: flex;
-  width: 70%;
+  width: 100%;
+}
+.content .first-content .second-content {
+  width: 50%;
 }
 .column {
   width: 40%;
